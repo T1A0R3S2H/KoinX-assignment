@@ -1,4 +1,4 @@
-# KoinX Backend Internship Assignment
+# KoinX Backend Intern Assignment
 
 ## Overview
 
